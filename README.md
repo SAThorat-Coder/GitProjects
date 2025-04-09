@@ -10,3 +10,5 @@ Login:
 <br><br>
 Register:
 <img src="https://image.prntscr.com/image/SILqa3UgRqaTBsYwfhrNUg.png" title="Register page" />
+<br>
+This is Login Page is only for learning Purpose<br>
